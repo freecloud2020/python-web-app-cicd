@@ -12,7 +12,7 @@ with open('data.json','r') as f:
     MASCOTS = json.load(f)
 
 
-    @APP.route('/', methods=['GET'])
+@APP.route('/', methods=['GET'])
 def get_mascots():
     """
     Function: get_mascots
