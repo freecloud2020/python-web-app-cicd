@@ -1,3 +1,5 @@
+# Build Status Badge: ![](https://github.com/freecloud2020/python-web-app-cicd/blob/main/actions-workflow-status-badge.png)
+
 # Chapter 04_02
 
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `exercise-files`.
